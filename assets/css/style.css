@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+  background-color: #b0e9ff;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.btns, #addButton{
+  background-color: #bb7718;
+  border: 1px solid #bb7718;
+  border-radius: 20px;
+  color: #2f71b5;
+}
+
+#exampleInputAnimal{
+  border-radius: 15px;
+  border: 1px solid #bb7718;
+}
+
+.btns{
+  margin: 5px;
+  padding: 9px;
+  font-size: 13px;
+}
+
+#addButton{
+  font-size: 12px;
+}
+
+#label{
+  padding-top: 32px;
+  color: #2f48b5;
+}
+
+.animalDiv{
+  border: 2px solid #bb7718;
+  margin: 5px;
+  border-radius: 49px;
+  margin-right: 20px;
+  margin-left: 10px;
+  padding: 10px;
+}
+
+.rating{
+  text-align: center;
+  font-weight: 500px;
+  color: 	#302fb5;
+}
